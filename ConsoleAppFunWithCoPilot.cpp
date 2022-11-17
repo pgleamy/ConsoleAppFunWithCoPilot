@@ -6,7 +6,7 @@
 // create DrawCat identifier
 void DrawCat();
 char input;
-char _getch();
+char _getch(); //test
 
 // create a Main function
 void main()
